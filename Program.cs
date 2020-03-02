@@ -10,7 +10,6 @@ namespace ListaEnlaza
         {
             Sumar misSumas = new Sumar();
             int numero = 0;
-
             while (numero != 4)
             {
                 WriteLine("INDIQUE CUÁL ES EL TIPO DE SUMA QUE DESEA REALIZAR: ");
